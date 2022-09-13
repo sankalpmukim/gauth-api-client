@@ -1,5 +1,4 @@
 import { gapi, loadAuth2 } from "gapi-script";
-import { useState, useEffect } from "react";
 
 const CLIENT_ID =
   "728562250889-sinae236t1h6a0guba47sj85cg7h8ga1.apps.googleusercontent.com";
